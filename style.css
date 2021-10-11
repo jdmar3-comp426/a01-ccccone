@@ -1,43 +1,44 @@
 body {
-    background-color: #b2d1ff;
-  }
-  
-  h1 {
-    color: #ffffff;
-    text-align: center;
-    font-family: arial;
-    border-style: double;
-  }
+background-color: #b2d1ff;
+}
 
-  h1:hover {
-      color:bisque;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
+h1 {
+color: #ffffff;
+text-align: center;
+font-family: arial;
+border-style: double;
+}
 
-  p.intro {
-    border-style: double;
-  }
+h1:hover {
+    color:bisque;
+}
 
-  #clicked {
-    border-style: double;
-    width: auto;
-  }
+p {
+font-family: verdana;
+font-size: 20px;
+}
 
-  div > a.backlink {
-    background-color: rgb(172, 193, 231);
-  }
+p.intro {
+border-style: double;
+}
 
-  div p {
-    border-style: double;
-  }
+#clicked {
+border-style: double;
+width: auto;
+}
 
-  a.backlink:hover {
-    font-family: arial;
-  }
-  a:active {
-    color: #0000FF;
-  }
+div > a.backlink {
+background-color: rgb(172, 193, 231);
+}
+
+div p {
+border-style: double;
+}
+
+a.backlink:hover {
+font-family: arial;
+}
+
+a:active {
+color: #0000FF;
+}
