@@ -1,0 +1,28 @@
+body {
+    background-color: #b2d1ff;
+  }
+  
+  h1 {
+    color: #ffffff;
+    text-align: center;
+    font-family: arial;
+    border-style: double;
+  }
+
+  h1:hover {
+      color:bisque;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  p.intro {
+    border-style: double;
+  }
+
+  #clicked {
+    border-style: double;
+    width: auto;
+  }
