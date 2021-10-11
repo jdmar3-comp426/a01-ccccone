@@ -27,10 +27,17 @@ body {
     width: auto;
   }
 
-  div > a {
-    background-color: yellow;
+  div > a.backlink {
+    background-color: rgb(172, 193, 231);
   }
 
   div p {
     border-style: double;
+  }
+
+  a.backlink:hover {
+    font-family: arial;
+  }
+  a:active {
+    color: #0000FF;
   }
