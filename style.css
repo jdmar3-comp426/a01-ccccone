@@ -30,3 +30,7 @@ body {
   div > a {
     background-color: yellow;
   }
+
+  div p {
+    border-style: double;
+  }
